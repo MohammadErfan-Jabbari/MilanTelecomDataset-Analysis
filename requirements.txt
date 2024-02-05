@@ -1,0 +1,10 @@
+pyarrow
+pandas 
+geopandas 
+numpy
+folium
+pmdarima
+statsmodels
+tensorflow 
+matplotlib
+seaborn
