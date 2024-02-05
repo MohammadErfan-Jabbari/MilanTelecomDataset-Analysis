@@ -5,12 +5,13 @@ This repository contains the work conducted as part of an assessment for a Resea
 
 ## Repository Structure
 - `code/`: Contains Jupyter notebooks.
-  - `Assessment Code.ipynb`: Notebook for solving the assessment's questions.
-  - `data_cleaning_and_aggregation.ipynb`: Notebook for loading, cleaning, and aggregating the dataset.
+  - `Assessment_Code.ipynb`: Notebook for solving the assessment's questions.
+  - `Data_Cleaning_and_Aggregation.ipynb`: Notebook for loading, cleaning, and aggregating the dataset.
 - `data/`: Data folder with subfolders for cleaned datasets and a geojson file for grid ID locations.
   - `cleaned_dataset/`: Contains cleaned CSV data files.
   - `cleaned_dataset_30/`: Contains aggregated 30-minute interval data files.
-  - `geojson/`: Contains geojson file with grid IDs.
+  - `milano-grid.geojson`: Contains geojson file with grid IDs.
+  - `ARIMA-model-parameters.csv`: Contains the save parameters from the ARIMA analysis.
 - `report/`: Contains the PDF report with detailed analysis and findings.
 - `README.md`: This file.
 - `LICENSE`: License file for the project.
