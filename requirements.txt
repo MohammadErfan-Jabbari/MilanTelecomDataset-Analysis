@@ -1,10 +1,3 @@
-pyarrow
-pandas 
-geopandas 
-numpy
-folium
-pmdarima
-statsmodels
-tensorflow 
-matplotlib
-seaborn
+version https://git-lfs.github.com/spec/v1
+oid sha256:d20cba2c0ec02a5a821c23b88b5a0de91382ef736f72924203a2cad6dbc98136
+size 92
